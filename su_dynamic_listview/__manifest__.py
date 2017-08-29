@@ -1,12 +1,12 @@
 {
-    'name': 'SU Dynamic ListView Odoo 10',
-    'summary': 'SU Dynamic ListView Odoo 10',
+    'name': 'Dynamic ListView Odoo Advance 10',
+    'summary': 'Dynamic ListView Odoo Advance 10',
     'version': '1.0',
     'category': 'Web',
     'description': """
-        SU Dynamic ListView Odoo 10
+        Dynamic ListView Odoo Advance 10
     """,
-    'author': "startup",
+    'author': "truongdung.vd@gmail.com",
     'depends': ['web'],
     'data': [
         'views/templates.xml',
